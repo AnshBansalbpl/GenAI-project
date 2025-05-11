@@ -46,20 +46,29 @@ Visit http://127.0.0.1:5000 in your browser to access the chatbot interface.
 
 🧪 Project Structure
 
-watson-chatbot-flask/
+genai-project/
+
 ├── app.py                 # Flask backend logic
+
 ├── templates/
+
 │   └── index.html         # Frontend page
 
 ✅ Features
 Real-time messaging with Watson Assistant
+
 Session handling for each interaction
+
 Clean and responsive chat UI
+
 Easily extendable for more use cases
 
 📚 References
+
 IBM Watson Assistant Documentation
+
 Flask Documentation
+
 IBM Watson Python SDK
 
 👨‍💻 Authors
