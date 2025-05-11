@@ -31,6 +31,7 @@ git clone https://github.com/AnshBansalbpl/GenAI-project.git
 2. Install Required Dependencies
 
 pip install flask ibm-watson
+
 3. Configure IBM Watson Assistant
 Update these values in your app.py file:
 
@@ -40,6 +41,7 @@ URL = 'your-service-url'
 
 4. Run the Application
 python app.py
+
 Visit http://127.0.0.1:5000 in your browser to access the chatbot interface.
 
 🧪 Project Structure
