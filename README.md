@@ -26,7 +26,7 @@ The aim of this project is to demonstrate how IBM Watson Assistant can be integr
 
 ### 1. Clone the Repository
 
-git clone 
+git clone https://github.com/AnshBansalbpl/GenAI-project.git 
 
 2. Install Required Dependencies
 
